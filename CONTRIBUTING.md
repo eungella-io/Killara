@@ -64,13 +64,13 @@
     remote:      https://github.com/........................
     ```
 
-    7.2 If you're haveing problem finding the url
+    7.2 If you're having problem finding the url
 
         a) https://github.com/eungella-io/Killara/pulls
 
         b) Click the button 'New pull request'
 
-        c) Click the link 'compare acorss forks'
+        c) Click the link 'compare across forks'
 
         d) Change head repository to your fork
 
