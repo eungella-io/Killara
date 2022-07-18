@@ -6,6 +6,14 @@
 
 TODO
 
+## Dev
+
+Update `@tauri-apps/cli`
+
+```shell
+yarn add --dev @tauri-apps/cli
+```
+
 ## Project
 
 [Project](https://github.com/orgs/eungella-io/projects/2/views/1?layout=board)
