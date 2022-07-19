@@ -1,8 +1,14 @@
-import { Button } from "@mantine/core";
-import "./App.css";
+import "./App.scss";
+import NoteApp from "./pages/NoteApp";
+import WidgetApp from "./pages/WidgetApp";
 
 function App() {
-	return <Button>Hello world!</Button>;
+	return (
+		<div className="app">
+			<NoteApp />
+			<WidgetApp />
+		</div>
+	);
 }
 
 export default App;
