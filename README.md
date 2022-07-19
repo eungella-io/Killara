@@ -6,6 +6,9 @@
 
 TODO
 
+## Documentation
+You can find the Killara documentation [here](https://github.com/eungella-io/Killara-docs).
+
 ## Dev
 
 Update `@tauri-apps/cli`
