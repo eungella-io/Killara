@@ -33,7 +33,8 @@
     4.1 Move to the project directory and install dependencies
 
     ```shell
-    cd Killara && yarn install
+    cd Killara
+    yarn install
     ```
 
     4.2 Run the app
