@@ -2,14 +2,15 @@ import { ReactElement } from "react";
 import style from "./LeftSidePanel.module.scss";
 
 interface NoteAppProps {
-	children: ReactElement;
+	menubar: ReactElement;
+	fileexplorer: ReactElement;
 }
 
-const LeftSidePanel: React.FC<NoteAppProps> = ({ children }) => {
+const LeftSidePanel: React.FC<NoteAppProps> = ({ menubar, fileexplorer }) => {
 	return (
 		<div className={style.left_side_panel}>
-			{children}
-			<div>Left Side Panel</div>
+			{menubar}
+			{fileexplorer}
 		</div>
 	);
 };
