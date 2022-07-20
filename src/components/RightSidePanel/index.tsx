@@ -2,14 +2,18 @@ import { ReactElement } from "react";
 import style from "./RightSidePanel.module.scss";
 
 interface RightSidePanelProps {
-	children: ReactElement;
+	editor: ReactElement;
+	footerbar: ReactElement;
 }
 
-const RightSidePanel: React.FC<RightSidePanelProps> = ({ children }) => {
+const RightSidePanel: React.FC<RightSidePanelProps> = ({
+	editor,
+	footerbar,
+}) => {
 	return (
 		<div className={style.right_side_panel}>
-			<div>Right Side Panel</div>
-			{children}
+			{editor}
+			{footerbar}
 		</div>
 	);
 };
