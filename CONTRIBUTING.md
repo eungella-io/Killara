@@ -1,4 +1,10 @@
-# Contribution Guidelines
+# Before you Contribute
+
+TODO
+
+# How to Contribution
+
+Make sure you have [Git](https://git-scm.com/), [Node](https://nodejs.org/en/) and [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) installed on your machine. You can use [NVM](https://github.com/nvm-sh/nvm) to manage your node versions. Also you need to install [Tauri CLI](https://tauri.app/v1/guides/getting-started/setup/html-css-js#create-the-rust-project)
 
 1.  Fork the repo
 2.  Clone your fork
