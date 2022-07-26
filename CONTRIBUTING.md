@@ -1,6 +1,13 @@
 # Before you Contribute
 
-TODO
+-   Is it necessary?
+-   Does it make developing Killara easier?
+-   Does it fix a bug? -> Create an issue with the steps to reproduce
+-   Does it break anything? -> Run the tests
+-   Does it stick to the original goal of Killara -> Distraction free writing
+-   Does it reduce the build size?
+-   Does it improve the user experience?
+-   Does it improve the performance?
 
 # How to Contribution
 
