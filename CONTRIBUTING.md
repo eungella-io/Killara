@@ -1,4 +1,4 @@
-# Before you Contribute
+# Before you contribute
 
 -   Is it necessary?
 -   Does it make developing Killara easier?
@@ -9,9 +9,9 @@
 -   Does it improve the user experience?
 -   Does it improve the performance?
 
-# How to Contribution
+# How to contribute
 
-Make sure you have [Git](https://git-scm.com/), [Node](https://nodejs.org/en/) and [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) installed on your machine. You can use [NVM](https://github.com/nvm-sh/nvm) to manage your node versions. Also you need to install [Tauri CLI](https://tauri.app/v1/guides/getting-started/setup/html-css-js#create-the-rust-project). You may also need the [GitHub CLI](https://github.com/cli/cli).
+Make sure you have [Git](https://git-scm.com/), [Node](https://nodejs.org/en/) and [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) installed on your machine. You can use [NVM](https://github.com/nvm-sh/nvm) to manage your node versions. Also, you need to install [Tauri CLI](https://tauri.app/v1/guides/getting-started/setup/html-css-js#create-the-rust-project). You may also need the [GitHub CLI](https://github.com/cli/cli).
 
 1.  Fork the repo
 2.  Clone your fork
