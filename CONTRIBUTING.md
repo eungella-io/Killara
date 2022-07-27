@@ -98,3 +98,9 @@ Make sure you have [Git](https://git-scm.com/), [Node](https://nodejs.org/en/) a
     git checkout main
     git pull
     ```
+# Upgrade yarn package
+
+```shell
+yarn outdated
+yarn upgrade
+```
