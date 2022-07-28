@@ -16,7 +16,7 @@
 | Name | Description | Notes |
 |------|-------------|-------------------------------------------------------------------------------|
 | [Visual Studio Code](https://code.visualstudio.com/download)                                       | Code editor                                             |                                                                                 |
-| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             | Code formatter                                          |                                                                                 |
+| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             | Code formatter                                          | [Example of a setup](https://gist.github.com/lifeparticle/6da3194bb49b8c4db406d641f5cfb926) |
 | [Git](https://git-scm.com/)                                                                        | Version control                                         | You may also need the [GitHub CLI](https://github.com/cli/cli)                  |
 | [Node](https://nodejs.org/en/)                                                                     | JavaScript runtime                                      | You can use [NVM](https://github.com/nvm-sh/nvm) to manage your node versions   |
 | [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)                                          | Package manager for JavaScript                          |                                                                                 |
