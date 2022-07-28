@@ -4,7 +4,7 @@
 -   Does it make developing Killara easier?
 -   Does it fix a bug? -> Create an issue with the steps to reproduce
 -   Does it break anything? -> Run the tests
--   Does it stick to the original goal of Killara -> Distraction free writing
+-   Does it stick to the original goal of Killara -> Distraction-free writing
 -   Does it reduce the build size?
 -   Does it improve the user experience?
 -   Does it improve the performance?
@@ -12,7 +12,17 @@
 # How to contribute
 
 ## Prerequisite
-Make sure you have [Git](https://git-scm.com/), [Node](https://nodejs.org/en/) and [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) installed on your machine. You can use [NVM](https://github.com/nvm-sh/nvm) to manage your node versions. Also, you need to install [Tauri CLI](https://tauri.app/v1/guides/getting-started/setup/html-css-js#create-the-rust-project). You may also need the [GitHub CLI](https://github.com/cli/cli).
+
+| Name | Description | Notes |
+|------|-------------|-------------------------------------------------------------------------------|
+| [Visual Studio Code](https://code.visualstudio.com/download)                                       | Code editor                                             |                                                                                 |
+| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             | Code formatter                                          |                                                                                 |
+| [Git](https://git-scm.com/)                                                                        | Version control                                         | You may also need the [GitHub CLI](https://github.com/cli/cli)                  |
+| [Node](https://nodejs.org/en/)                                                                     | JavaScript runtime                                      | You can use [NVM](https://github.com/nvm-sh/nvm) to manage your node versions   |
+| [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)                                          | Package manager for JavaScript                          |                                                                                 |
+| [Tauri CLI](https://tauri.app/v1/guides/getting-started/setup/html-css-js#create-the-rust-project) | Start front-end development server and other processes  |                                                                                 |
+
+If you're having trouble with the development setup, make sure you have read the [FAQ](https://github.com/eungella-io/FAQ) first before raising an [issue](https://github.com/eungella-io/Killara/issues/new).
 
 ## Git
 1.  Fork the repo
