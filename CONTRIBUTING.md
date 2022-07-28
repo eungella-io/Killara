@@ -2,7 +2,7 @@
 
 -   Is it necessary?
 -   Does it make developing Killara easier?
--   Does it fix a bug? -> Create an issue with the steps to reproduce
+-   Does it fix a bug? -> Create an [issue](https://github.com/eungella-io/Killara/issues/new) with the steps to reproduce
 -   Does it break anything? -> Run the tests
 -   Does it stick to the original goal of Killara -> Distraction-free writing
 -   Does it reduce the build size?
