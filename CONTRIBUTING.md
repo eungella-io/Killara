@@ -32,25 +32,25 @@ If you're having trouble with the development setup, make sure you have read the
 
     3.1.
 
-    ```bash
+    ```shell
     git remote add upstream git@github.com:eungella-io/Killara.git
     ```
 
     3.2.
 
-    ```bash
+    ```shell
     git fetch upstream
     ```
 
     3.3.
 
-    ```bash
+    ```shell
     git branch --set-upstream-to=upstream/main main
     ```
 
     3.4.
 
-    ```bash
+    ```shell
     git pull
     ```
 
@@ -71,13 +71,13 @@ If you're having trouble with the development setup, make sure you have read the
 
 5.  Create a branch
 
-    ```bash
+    ```shell
     git branch issue-2 # use issue_number, replace issue-2 with appropriate branch name
     git checkout issue-2
     ```
 
 6.  Push your changes to your fork with git push
-    ```bash
+    ```shell
     git add .
     git commit -m"Write a meaningfull commit message"
     git push
@@ -86,7 +86,7 @@ If you're having trouble with the development setup, make sure you have read the
 
     7.1 Use the url from the terminal
 
-    ```bash
+    ```shell
     remote: Create a pull request for 'issue-2' on GitHub by visiting:
     remote:      https://github.com/........................
     ```
@@ -107,7 +107,7 @@ If you're having trouble with the development setup, make sure you have read the
 
 8.  Repeat
 
-    ```bash
+    ```shell
     git checkout main
     git pull
     ```
