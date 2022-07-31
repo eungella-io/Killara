@@ -13,18 +13,19 @@
 
 ## Prerequisite
 
-| Name | Description | Notes |
-|------|-------------|-------------------------------------------------------------------------------|
-| [Visual Studio Code](https://code.visualstudio.com/download)                                       | Code editor                                             |                                                                                 |
-| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             | Code formatter                                          | [Example of a setup](https://gist.github.com/lifeparticle/6da3194bb49b8c4db406d641f5cfb926) |
-| [Git](https://git-scm.com/)                                                                        | Version control                                         | You may also need the [GitHub CLI](https://github.com/cli/cli)                  |
-| [Node](https://nodejs.org/en/)                                                                     | JavaScript runtime                                      | You can use [NVM](https://github.com/nvm-sh/nvm) to manage your node versions   |
-| [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)                                          | Package manager for JavaScript                          |                                                                                 |
-| [Tauri CLI](https://tauri.app/v1/guides/getting-started/setup/html-css-js#create-the-rust-project) | Start front-end development server and other processes  |                                                                                 |
+| Name                                                                                               | Description                                            | Notes                                                                                                                |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
+| [Visual Studio Code](https://code.visualstudio.com/download)                                       | Code editor                                            | [Workspace](https://github.com/eungella-io/Killara/blob/main/.vscode/settings.json) settings comes with the project. |
+| [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)             | Code formatter                                         | [Prettier](https://github.com/eungella-io/Killara/blob/main/.prettierrc.json) settings comes with the project.       |
+| [Git](https://git-scm.com/)                                                                        | Version control                                        | You may also need the [GitHub CLI](https://github.com/cli/cli)                                                       |
+| [Node](https://nodejs.org/en/)                                                                     | JavaScript runtime                                     | You can use [NVM](https://github.com/nvm-sh/nvm) to manage your node versions                                        |
+| [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)                                          | Package manager for JavaScript                         |                                                                                                                      |
+| [Tauri CLI](https://tauri.app/v1/guides/getting-started/setup/html-css-js#create-the-rust-project) | Start front-end development server and other processes |                                                                                                                      |
 
 If you're having trouble with the development setup, make sure you have read the [FAQ](https://github.com/eungella-io/FAQ) first before raising an [issue](https://github.com/eungella-io/Killara/issues/new).
 
 ## Git
+
 1.  Fork the repo
 2.  Clone your fork
 3.  Sync your local master
@@ -110,6 +111,7 @@ If you're having trouble with the development setup, make sure you have read the
     git checkout main
     git pull
     ```
+
 # Upgrade yarn package
 
 ```shell
