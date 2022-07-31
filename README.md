@@ -5,20 +5,16 @@
 [![CodeQL](https://github.com/eungella-io/Killara/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/eungella-io/Killara/actions/workflows/codeql-analysis.yml)
 
 ## Killara
-
 Killara is a distraction-free writing application designed by and for writers.
 
 ## Documentation
 You can find the Killara documentation [here](https://github.com/eungella-io/Killara-docs).
 
 ## Project
-
 [Project](https://github.com/orgs/eungella-io/projects/2/views/1?layout=board)
 
 ## Contributing
-
-### [Contributing Guide](https://github.com/eungella-io/Killara/blob/main/CONTRIBUTING.md)
+You can find the Killara contributing guideline [here](https://github.com/eungella-io/Killara/blob/main/CONTRIBUTING.md).
 
 ### License
-
 Killara is [MIT licensed](https://github.com/eungella-io/Killara/blob/main/LICENSE).
