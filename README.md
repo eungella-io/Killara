@@ -6,7 +6,7 @@
 
 ## Killara
 
-TODO
+Killara is a distraction-free writing application designed by and for writers.
 
 ## Documentation
 You can find the Killara documentation [here](https://github.com/eungella-io/Killara-docs).
