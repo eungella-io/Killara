@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://user-images.githubusercontent.com/107614800/175932946-c0ef190c-4549-4be5-9e19-d8dcf2350f79.png" height=200 width=200 />
-</p>
+<img src="https://user-images.githubusercontent.com/107614800/175932946-c0ef190c-4549-4be5-9e19-d8dcf2350f79.png" height=200 width=200 align="right"/>
 
 [![CodeQL](https://github.com/eungella-io/Killara/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/eungella-io/Killara/actions/workflows/codeql-analysis.yml)
 
