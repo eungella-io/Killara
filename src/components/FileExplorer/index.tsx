@@ -7,6 +7,7 @@ import {
 import { DndProvider } from "react-dnd";
 import initialData from "./sample-default.json";
 import style from "./FileExplorer.module.scss";
+import folderIcon from "assets/folder.svg";
 
 const FileExplorer: React.FC = () => {
 	const [treeData, setTreeData] = useState(initialData);
@@ -24,7 +25,11 @@ const FileExplorer: React.FC = () => {
 					<div style={{ marginLeft: depth * 10 }}>
 						{node.droppable && (
 							<span onClick={onToggle}>
-								{isOpen ? "[-]" : "[+]"}
+								{isOpen ? (
+									<img alt="folder icon" src={folderIcon} />
+								) : (
+									<img alt="folder icon" src={folderIcon} />
+								)}
 							</span>
 						)}
 						{node.text}
