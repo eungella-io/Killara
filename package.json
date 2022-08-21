@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@emotion/react": "^11.10.0",
+    "@emotion/styled": "^11.10.0",
     "@mantine/core": "^5.0.0",
     "@mantine/hooks": "^5.0.0",
+    "@mantine/rte": "^5.2.0",
     "@minoru/react-dnd-treeview": "^2.0.2",
     "@tauri-apps/api": "^1.0.1",
     "@testing-library/jest-dom": "^5.16.5",
