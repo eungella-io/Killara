@@ -3,7 +3,7 @@
 [![CodeQL](https://github.com/eungella-io/Killara/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/eungella-io/Killara/actions/workflows/codeql-analysis.yml)
 
 ## Killara
-Killara is a distraction-free writing application designed by and for writers.
+Killara (Aboriginal word for "always there", pronounced like "Kuh laa ruh") is a distraction-free writing application designed by and for writers.
 
 ## Documentation
 You can find the Killara documentation [here](https://github.com/eungella-io/Killara-docs).
