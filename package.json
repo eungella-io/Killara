@@ -22,7 +22,7 @@
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
     "sass": "^1.64.2",
-    "typescript": "^5.0.4",
+    "typescript": "^5.2.2",
     "web-vitals": "^3.4.0"
   },
   "scripts": {
